@@ -1,0 +1,5 @@
+Recipes_ES = {
+    Recipe_Make_Steel_Ladder = "Hacer Escalera de acero",
+	Recipe_Make_Wooden_Ladder = "Hacer Escalera de madera",
+	
+} 
