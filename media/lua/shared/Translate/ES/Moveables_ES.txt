@@ -1,0 +1,4 @@
+Moveables_ES = {
+	Steel_Ladder = "Escalera de acero",
+	Wooden_Ladder = "Escalera de madera",
+}
